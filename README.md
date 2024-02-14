@@ -15,10 +15,3 @@ I'm currently studying a second-year student at Danang University of Science and
 ---
 [![](https://visitcount.itsvg.in/api?id=hoangdat6&icon=0&color=0)](https://visitcount.itsvg.in)
 
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  template: terminal
-  filename: metrics.terminal.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, metadata
