@@ -1,5 +1,4 @@
-<center> <h2>👋 Hi, My name is Hoang Dat</h2> </center>
-<!-- <h2 style="text-align: center;">👋Hi, My name is Hoang Dat</h2> -->
+<h2 align="center">👋 Hi, My name is Hoang Dat.</h2>
 ✉️  You can contact me at dathv2004@gmail.com
 
 
