@@ -1,7 +1,6 @@
 <h2>👋 Hi, My name is Hoang Dat.</h2>
 
-I'm currently studying a second-year student at Danang University of Science and Technology.
-
+I'm currently studying a second-year student at Danang University of Science and Technology.Thank you for visiting my Github page, I hope you will learn something useful from it!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hoangdat161204) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hoangdat161204) 
