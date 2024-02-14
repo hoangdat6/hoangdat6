@@ -1,6 +1,6 @@
 <h2>👋 Hi, My name is Hoang Dat.</h2>
 
-I'm currently studying a second-year student at Danang University of Science and Technology.Thank you for visiting my Github page, I hope you will learn something useful from it!
+I'm currently studying a second-year student at Danang University of Science and Technology.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hoangdat161204) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hoangdat161204) 
@@ -15,4 +15,10 @@ I'm currently studying a second-year student at Danang University of Science and
 ---
 [![](https://visitcount.itsvg.in/api?id=hoangdat6&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+name: Example
+uses: lowlighter/metrics@latest
+with:
+  template: terminal
+  filename: metrics.terminal.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, metadata
