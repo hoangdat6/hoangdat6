@@ -1,4 +1,5 @@
 <h2 align="center">👋 Hi, My name is Hoang Dat.</h2>
+I'm currently studying at 
 ✉️  You can contact me at dathv2004@gmail.com
 
 
@@ -16,3 +17,4 @@
 [![](https://visitcount.itsvg.in/api?id=hoangdat6&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates)
