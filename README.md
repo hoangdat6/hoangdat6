@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Hoang Dat</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
+<img align="right" alt="Coding" width="190" style="border: 2px solid  gray; border-radius:10px" src="https://i.pinimg.com/564x/1b/82/ed/1b82edaacc3d4d38a269e2b48078ea79.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangdat6&label=Profile%20views&color=0e75b6&style=flat" alt="hoangdat6" /> </p>
 
