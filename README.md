@@ -25,6 +25,7 @@
 
 ## 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=hoangdat6&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
+![Leetcode Profile Stats](https://greenj-readme-stats.onrender.com/leetcode/streak/hoangdat6?docsDisplay=true&theme=neon_palenight&borderRadius=8&hideBorder=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hoangdat6&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdat6&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![Leetcode Profile Stats](https://greenj-readme-stats.onrender.com/leetcode/streak/hoangdat6)
+
