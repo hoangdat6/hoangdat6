@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangdat6&label=Profile%20views&color=0e75b6&style=flat" alt="hoangdat6"/> </p>
 
-- 🔭 I'm currently studying **a second-year student at Danang University of Science and Technology**
+- 🔭 I'm currently studying **a third-year student at Danang University of Science and Technology**
 
 - 🌱 I’m currently learning **Jsp-Servlet, Spring Boot**
 
