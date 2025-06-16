@@ -4,7 +4,7 @@
 <h3 align="center">💻 A passionate Software Engineer from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20(Spring%20Boot%20%7C%20Django);Frontend%20(ReactJS%20%7C%20NextJS);Cybersecurity%20%26%20DevOps%20Enthusiast;Always%20Learning%20New%20Tech&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20(Spring%20Boot%20%7C%20Django);Frontend%20Developer%20(ReactJS%20%7C%20NextJS);Cybersecurity%20%26%20DevOps%20Enthusiast;Always%20Learning%20New%20Tech&center=true&width=550&height=45">
 </p>
 
 <img align="right" alt="Coding" width="230" style="border: 2px solid gray; border-radius:10px" src="https://i.pinimg.com/564x/1b/82/ed/1b82edaacc3d4d38a269e2b48078ea79.jpg">
